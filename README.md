@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/syntaxxayush" target="blank"><img src="https://img.shields.io/twitter/follow/syntaxxayush?logo=twitter&style=for-the-badge" alt="syntaxxayush" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot , Play , Java Developer**
+- 🌱 I’m currently learning **Java,spring boot,Gsap**
 
 - 👯 I’m looking to collaborate on **Full stack Project**
 
